@@ -18,18 +18,18 @@
     <h2>My Stats 🏆</h2>
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=buefy&hide_border=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=buefy&hide_border=true&card_width=500"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" height = "150px" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=material-palenight&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=material-palenight&hide_border=true&card_width=500" />
 </picture>
     
 <picture>
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=buefy&hide_border=true"
+  srcset="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=buefy&hide_border=true&card_width=500&exclude_days=Sun%2CSat&card_width=500"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="center" height = "150px" src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&hide_border=true"/>
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&exclude_days=Sun%2CSat&card_width=500&hide_total_contributions=true&hide_border=true"/>
 </picture>
 
 </div>
