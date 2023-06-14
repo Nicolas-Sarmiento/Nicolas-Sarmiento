@@ -28,7 +28,7 @@
   srcset="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=buefy&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&hide_border=true"/>
 </picture>
 
 
