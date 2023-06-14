@@ -21,7 +21,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=buefy&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width= "50%"  src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=material-palenight&hide_border=true" />
+<img align="center" height = "150px" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=material-palenight&hide_border=true" />
 </picture>
     
 <picture>
@@ -29,17 +29,10 @@
   srcset="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=buefy&hide_border=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img  width= "50%"  src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&hide_border=true"/>
+<img align="center" height = "150px" src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&hide_border=true"/>
 </picture>
 
 </div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 
