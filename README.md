@@ -12,6 +12,7 @@
     <p><strong> Programming Languages ⚒️</strong></p>
     <img src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt = "java-logo" height = "50px">
     <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt = "python-logo" height = "50px">
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" alt = "c++-logo" height = "50px">
 </div>
 
 <h2>My Stats 🏆</h2>
