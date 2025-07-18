@@ -1,9 +1,9 @@
 
 <div align="center">
-    <h1 style="text-align: center;"> Hi there.  I'm Nicolas 👋😊 </h1>
-    <p> 😎 I'm from Colombia and I am currently studying Software Engineering</p>
-    <p>🌱 I’m currently learning Java and C/C++</p>
-    <p>📫 How to reach me: nicolas.sarmiento@uptc.edu.co</p>
+    <h1 style="text-align: center;"> Hi there.  I'm Nicolas </h1>
+    <p> 🇨🇴 I'm from Colombia and I am currently studying Software Engineering. I'm also very interested in Computer Science and Math.</p>
+    <p>🌱  I’m currently learning C/C++</p>
+    <p>📫  How to reach me: nicolas.sarmiento@uptc.edu.co</p>
 </div>
 
 <h1></h1>
