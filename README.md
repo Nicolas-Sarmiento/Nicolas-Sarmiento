@@ -10,27 +10,21 @@
 
 <div>
     <p><strong> Programming Languages ⚒️</strong></p>
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt = "c-logo" height = "50px">
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt = "c++-logo" height = "50px">
+    <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+</div>
+<div>
+    <p><strong>Tools</strong></p>
+    <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
 
-<h2>My Stats 🏆</h2>
-<div align="center"  >
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=buefy&hide_border=true&card_width=600"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Sarmiento&show_icons=true&theme=material-palenight&hide_border=true&card_width=600" />
-</picture>
-    
-<picture>
-<source
-  srcset="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=buefy&hide_border=true&card_width=500&exclude_days=Sun%2CSat&card_width=600"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-Sarmiento&theme=material-palenight&exclude_days=Sun%2CSat&card_width=600&hide_total_contributions=true&hide_border=true"/>
-</picture>
 
 </div>
 
